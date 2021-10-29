@@ -101,7 +101,7 @@ public class Renderer {
      */
     private Color trace(Ray ray, int depth) {
         RayHit hit = findHit(ray);
-        Color color = null;
+        Color color = scene.getBackgroundColor();
 
         if(hit != null) {
             color = shade(hit, depth);

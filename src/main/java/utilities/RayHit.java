@@ -62,7 +62,6 @@ public class RayHit {
     public RayHit(Ray ray, Shape shape, Vector3D normal, Vector3D intersection) {
         this.ray = ray;
         this.shape = shape;
-        this.t = t;
         this.normal = normal.normalize();
         this.hitPoint = intersection;
 

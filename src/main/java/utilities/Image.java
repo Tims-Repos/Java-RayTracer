@@ -16,8 +16,8 @@ import java.io.IOException;
  * @author Timothy
  */
 public class Image {
-    private final String FILETYPE = "PNG";
-    private final String FILENAME = "renderedImage.png";
+    private static final String FILETYPE = "PNG";
+    private static final String FILENAME = "renderedImage.png";
     private int width;
     private int height;
     private File image;
