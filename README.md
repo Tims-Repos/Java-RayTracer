@@ -12,4 +12,4 @@ I could have created a whole Java Swing GUI which would update the BufferedImage
 - Created an abstract class SceneObject which gives every object in the scene a position and a color
 - Created an abstract class Shape which inherits from the SceneObject class and has an abstract method called intersects which all the subclasses override.
 - Also trace reflection rays with a recursion depth.
-- The whole project is also available as javadoc. Look for the index.html inside the javadoc folder.
+- The whole project is also available as [javadoc.](../javadoc/index.html)
