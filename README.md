@@ -2,7 +2,7 @@
 
 My experimental raytracer made in Java without any external libraries. Created solely for learning purposes, that's why it currently generates only one image. 
 
-I could have created a whole Java Swing GUI which would update the BufferedImage so it would actually render the scene instead of just save a single image, but I was constrained by the deadline. I would have to research a lot of topics in a limited time, because when you use the Java Swing framework it's also good to know a few things about multithreading. But I will try and keep adding new features to the raytracer in the future, because I think it's a really fun project from which I have learned a lot already.
+I could have created a whole Java Swing GUI which would update the BufferedImage so it would actually render the scene instead of just saving a single image, but I was constrained by the deadline. I would have had to research a lot of topics in a limited time, because when using the Java Swing framework it's also good to know a few things about how multithreading works in Java. Depending on the time I need to spend on other higher priority projects, I will try adding new features to the raytracer in the future, because I think it's a really fun project from which I have learned a lot already.
 
 
 ## Features
